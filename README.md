@@ -24,10 +24,10 @@ git clone https://github.com/huggingface/trl.git
 cd trl/
 pip install -e .[dev]
 ```
-Then you can Clone this repository, and copy the contents of the trainer/ directory into the trl/train/ directory of the TRL repository:
+Then you can Clone this repository, and copy the contents of the trainer/ directory into the trl/trainer/ directory of the TRL repository:
 ```bash
 git clone https://github.com/VRPO/VRPO.git
-cp -r VRPO/trainer/* trl/train/
+cp -r VRPO/trainer/* trl/trainer/
 ```
 
 ## Example of Data Format Accepted by VRPO
