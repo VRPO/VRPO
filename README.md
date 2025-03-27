@@ -5,7 +5,7 @@
 ## Introduction
 
 
-This repository is designed for training and evaluating the Variance-Reduced Preference Optimization136 (VRPO). It includes the following:
+This repository is designed for training and evaluating the Variance-Reduced Preference Optimization (VRPO). It includes the following:
 
 * Trainers code for both One-stage optimization and Two-stage optimization.
 
