@@ -1,5 +1,6 @@
 # VRPO-Robust Reinforcement Learning from Human Feedback for Large Language Models Fine-Tuning
 
+![flowchart](./VRPO flowchart.png?raw=true)
 
 
 ## Introduction
